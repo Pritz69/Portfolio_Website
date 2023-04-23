@@ -3,8 +3,8 @@
 :root {
     --color-body: #eaf2f3;
     --color-heading: #eef3db;
-    --color-base: rgb(1, 45, 77);
-    --color-base2: #00223a;
+    --color-base: rgb(17, 6, 63);
+    --color-base2: #360c3d;
     --color-brand: #e0f780;
     --color-brand2: #deff58;
     --sidbar-width: 240px;
@@ -295,7 +295,7 @@ img {
 
     #home {
 
-        background: url(../images/pic1.png);
+        background: url(../images/Smaller1.jpeg);
         background-position: right center;
         border: none;
         background-repeat: no-repeat;

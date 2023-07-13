@@ -297,7 +297,7 @@ img {
 
         background: url(../images/qqq.jpg);
         background-position: right center;
-        border: 10px solid black;
+        border: none;
         background-repeat: no-repeat;
         background-size: contain;
 
